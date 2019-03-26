@@ -14,5 +14,4 @@ class SuperHero
     @@superheroes
   end
 
-
 end
