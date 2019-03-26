@@ -9,8 +9,8 @@ class Team
     @@teams << self
   end
 
-  def self.all 
-    @@teams 
+  def self.all
+    @@teams
   end
 
 end
