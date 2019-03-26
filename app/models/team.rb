@@ -1,3 +1,3 @@
-class Team 
+class Team
 
 end
