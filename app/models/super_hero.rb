@@ -1,3 +1,3 @@
-class SuperHero 
+class SuperHero
 
 end
